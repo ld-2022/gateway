@@ -1,6 +1,6 @@
-module github.com/jackpal/gateway
+module github.com/ld-2022/gateway
 
-go 1.21
+go 1.20
 
 require (
 	github.com/stretchr/testify v1.8.4
